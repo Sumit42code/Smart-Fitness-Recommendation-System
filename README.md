@@ -14,7 +14,7 @@ This project was developed as a assignment for the Data Wrangling and Machine Le
 Fitness trackers collect information such as heart rate, workout duration, activity frequency, and calories burned, but raw measurements can be difficult to interpret. This project explores how those measurements can be converted into practical, user-friendly outputs.
 
 [View Notebook](Smart_Fitness_Recommendation_System.ipynb) |
-[View Streamlit App](streamlit_app.py)
+[View Streamlit App](https://smart-fitness-recommendation-system-8zcsmm5wufjsqxvbqceayv.streamlit.app/)
 
 
 The system can:
